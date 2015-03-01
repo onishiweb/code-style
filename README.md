@@ -9,6 +9,8 @@ General front-end code style guides.
 - Coding Standards by CX Partners: https://github.com/cxpartners/coding-standards
 - Code Standards by Isobar: http://isobar-idev.github.io/code-standards/
 - Front-End Dev Guidelines by TMW: http://tech.tmw.co.uk/code/TMW-frontend-guidelines/
+- Google HTML/CSS Style Guide: https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+- Architect Front-end Rules: https://github.com/wearearchitect/Front-end-Rules
 
 ## HTML style guides
 
