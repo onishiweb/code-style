@@ -1,4 +1,5 @@
 # Code Style Guides
+
 A collection of code style guide and coding standards resources.
 
 ## Front-End style guides
@@ -24,9 +25,9 @@ Style guides for CSS or CSS Preprocessors
 
 - CSS Guidelines by Harry Roberts: http://cssguidelin.es/
 - Sass guidelines by Hugo Giraudel: http://sass-guidelin.es/
-- Idiomatic CSS by Nicolas Gallagher:https://github.com/necolas/idiomatic-css
-- Idiomatic Sass by Anthony Short:https://github.com/anthonyshort/idiomatic-sass
-- Sass conventions by Le Wattman:https://github.com/lewattman/sass-conventions
+- Idiomatic CSS by Nicolas Gallagher: https://github.com/necolas/idiomatic-css
+- Idiomatic Sass by Anthony Short: https://github.com/anthonyshort/idiomatic-sass
+- Sass conventions by Le Wattman: https://github.com/lewattman/sass-conventions
 - WordPress CSS coding standards: https://make.wordpress.org/core/handbook/coding-standards/css/
 
 ## JavaScript style guides
