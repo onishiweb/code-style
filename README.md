@@ -28,6 +28,7 @@ Style guides for CSS or CSS Preprocessors
 - Idiomatic Sass by Anthony Short:https://github.com/anthonyshort/idiomatic-sass
 - Sass conventions by Le Wattman:https://github.com/lewattman/sass-conventions
 - WordPress CSS coding standards: https://make.wordpress.org/core/handbook/coding-standards/css/
+- How I Write My Sass by Stu Robson: https://alwaystwisted.com/articles/2013-12-29-how-i-write-my-sass
 
 ## JavaScript style guides
 
