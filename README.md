@@ -30,6 +30,7 @@ Style guides for CSS or CSS Preprocessors
 - Sass conventions by Le Wattman: https://github.com/lewattman/sass-conventions
 - WordPress CSS coding standards: https://make.wordpress.org/core/handbook/coding-standards/css/
 - Scss-Styleguide by Tim Hartmann: https://github.com/timhartmann/Scss-Styleguide
+- How I Write My Sass by Stu Robson: https://alwaystwisted.com/articles/2013-12-29-how-i-write-my-sass
 
 ## JavaScript style guides
 
