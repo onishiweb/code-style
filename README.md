@@ -41,7 +41,7 @@ Style guides for JavaScript or JS Frameworks
 - Airbnb JavaScript Style Guide: https://github.com/airbnb/javascript
 - WordPress JavaScript Coding Standards: https://make.wordpress.org/core/handbook/coding-standards/javascript/
 - Angular Style Guide by Go Cardless: https://github.com/gocardless/angularjs-style-guide
-
+- AngularJS Styleguide by Todd Motto: https://github.com/toddmotto/angularjs-styleguide
 
 ## PHP style guides
 
